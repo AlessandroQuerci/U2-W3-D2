@@ -1,0 +1,21 @@
+header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.form {
+  background-color: aqua;
+  padding: 2rem;
+  border-radius: 20px;
+}
+
+#deleteUser {
+  margin-left: 8rem;
+  margin-top: 1rem;
+}
